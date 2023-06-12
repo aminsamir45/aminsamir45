@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Samir Amin</h1>
-<h3 align="center">A passionate Machine Learning/Data Scientist at MIT!</h3>
+<h1 align="center">Hi I'm Samir Amin 👋,</h1>
+<h3 align="center">A passionate Machine Learning/Data Scientist at MIT</h3>
 
 - 🔭 I’m currently working on [MIT CSAIL's AlgoWiki Porject](https://algorithm-wiki.org/)
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects!**
 
-- 📫 How to reach me **aminsamir45@gmail.com**
-
-- ⚡ Fun fact **I run cross country and track and field at MIT**
+- 📫 Reach me at: **aminsamir45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samir amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir amin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samir-amin-88a24622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir amin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
