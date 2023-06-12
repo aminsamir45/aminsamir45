@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminsamir45&show_icons=true&locale=en" alt="aminsamir45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminsamir45&" alt="aminsamir45" /></p>
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
