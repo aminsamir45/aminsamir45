@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Samir Amin 👋,</h1>
-<h3 align="center">A passionate Machine Learning/Data Scientist at MIT</h3>
+<h3 align="center">A passionate Machine Learning/Artificial Intelligence student at MIT</h3>
 
 - 🔭 I’m currently working on [MIT CSAIL's AlgoWiki Project](https://algorithm-wiki.org/)
 
