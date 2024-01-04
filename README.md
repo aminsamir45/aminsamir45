@@ -1,11 +1,11 @@
 <h1 align="center">Hi I'm Samir Amin 👋,</h1>
-<h3 align="center">A passionate Machine Learning/Artificial Intelligence student at MIT</h3>
+<h3 align="center"> Machine Learning/AI student at MIT</h3>
 
 - 🔭 I’m currently working on [MIT CSAIL's AlgoWiki Project](https://algorithm-wiki.org/)
 
 - 👯 I’m looking to collaborate on **Machine Learning and AI projects!**
 
-- 📫 Reach me at: **aminsamir45@gmail.com**
+- 📫 Reach me at: **aminsam@mit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
